@@ -1,0 +1,256 @@
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Online_Exam_Gladiator.exe
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Online_Exam_Gladiator.deps.json
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Online_Exam_Gladiator.runtimeconfig.json
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Online_Exam_Gladiator.runtimeconfig.dev.json
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Online_Exam_Gladiator.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Online_Exam_Gladiator.pdb
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Humanizer.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.csproj.AssemblyReference.cache
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.GeneratedMSBuildEditorConfig.editorconfig
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.AssemblyInfoInputs.cache
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.AssemblyInfo.cs
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.csproj.CoreCompileInputs.cache
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.MvcApplicationPartsAssemblyInfo.cache
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\staticwebassets\Online_Exam_Gladiator.StaticWebAssets.Manifest.cache
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\staticwebassets\Online_Exam_Gladiator.StaticWebAssets.xml
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\scopedcss\bundle\Online_Exam_Gladiator.styles.css
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.RazorTargetAssemblyInfo.cache
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.csproj.CopyComplete
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.dll
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.pdb
+G:\Online_Exam_Gladiator\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.genruntimeconfig.cache
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\appsettings.json
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Online_Exam_Gladiator.exe
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Online_Exam_Gladiator.deps.json
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Online_Exam_Gladiator.runtimeconfig.json
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Online_Exam_Gladiator.runtimeconfig.dev.json
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Online_Exam_Gladiator.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Online_Exam_Gladiator.pdb
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Humanizer.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.csproj.AssemblyReference.cache
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.GeneratedMSBuildEditorConfig.editorconfig
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.AssemblyInfoInputs.cache
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.AssemblyInfo.cs
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.csproj.CoreCompileInputs.cache
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.MvcApplicationPartsAssemblyInfo.cache
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\staticwebassets\Online_Exam_Gladiator.StaticWebAssets.Manifest.cache
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\staticwebassets\Online_Exam_Gladiator.StaticWebAssets.xml
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\scopedcss\bundle\Online_Exam_Gladiator.styles.css
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.RazorTargetAssemblyInfo.cache
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.csproj.CopyComplete
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.dll
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.pdb
+F:\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.genruntimeconfig.cache
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.csproj.AssemblyReference.cache
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.GeneratedMSBuildEditorConfig.editorconfig
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.AssemblyInfoInputs.cache
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.AssemblyInfo.cs
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.csproj.CoreCompileInputs.cache
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.MvcApplicationPartsAssemblyInfo.cache
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.pdb
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\appsettings.json
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Online_Exam_Gladiator.exe
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Online_Exam_Gladiator.deps.json
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Online_Exam_Gladiator.runtimeconfig.json
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Online_Exam_Gladiator.runtimeconfig.dev.json
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Online_Exam_Gladiator.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Online_Exam_Gladiator.pdb
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Humanizer.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\staticwebassets\Online_Exam_Gladiator.StaticWebAssets.Manifest.cache
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\staticwebassets\Online_Exam_Gladiator.StaticWebAssets.xml
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\scopedcss\bundle\Online_Exam_Gladiator.styles.css
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.RazorTargetAssemblyInfo.cache
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.csproj.CopyComplete
+F:\project__adapt\prajwalbackend\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.genruntimeconfig.cache
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\appsettings.json
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Online_Exam_Gladiator.exe
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Online_Exam_Gladiator.deps.json
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Online_Exam_Gladiator.runtimeconfig.json
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Online_Exam_Gladiator.runtimeconfig.dev.json
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Online_Exam_Gladiator.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Online_Exam_Gladiator.pdb
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.GeneratedMSBuildEditorConfig.editorconfig
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.AssemblyInfoInputs.cache
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.AssemblyInfo.cs
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.csproj.CoreCompileInputs.cache
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.MvcApplicationPartsAssemblyInfo.cache
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\staticwebassets\Online_Exam_Gladiator.StaticWebAssets.Manifest.cache
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\staticwebassets\Online_Exam_Gladiator.StaticWebAssets.xml
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\scopedcss\bundle\Online_Exam_Gladiator.styles.css
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.RazorTargetAssemblyInfo.cache
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.csproj.CopyComplete
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.dll
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.pdb
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.genruntimeconfig.cache
+E:\project gladiator\Gladiators-master\Online_Exam_Gladiator\obj\Debug\netcoreapp3.1\Online_Exam_Gladiator.csproj.AssemblyReference.cache
